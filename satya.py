@@ -18,6 +18,7 @@ ships_data = {
         "Route": "Port C to Port D",
         "Crew": 25
     }
+    
 }
 
 # Streamlit app
